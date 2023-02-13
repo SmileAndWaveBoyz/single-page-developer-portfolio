@@ -393,6 +393,9 @@ h3{
 }
 
 @media screen and (min-width: 1024px) {
+    .experienceGrid{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
     .ringsTwo{
         top: 0px;
         right: 0px;
